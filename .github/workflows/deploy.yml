@@ -1,5 +1,5 @@
-```yaml
-name: Deploy meta
+
+name: Deploy Milano
 
 on:
   push:
